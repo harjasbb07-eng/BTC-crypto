@@ -115,6 +115,11 @@ Compare vs Buy-and-Hold
 
 No installation required — runs fully in browser.
 
+###Streamlit version
+https://btc-crypto-ezz.streamlit.app/
+
+You can run the project here too but be warned it takes plenty time to run.
+
 ---
 
 ## 📂 Repository Links
