@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+xgboost==2.0.3
+scikit-learn
+plotly
+requests
+matplotlib
